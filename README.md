@@ -1,3 +1,3 @@
 # caixa-eletronico
 
-vamos guarda dinheirinho
+vamos guarda ou gastar dinheirinho 
